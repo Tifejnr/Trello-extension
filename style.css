@@ -1,0 +1,178 @@
+body{
+     height: 70px;
+     width:  230px;
+     background-color: gray;
+
+ }
+
+#home{
+     width: 50px;
+     height: 20px;
+}
+
+#btn-reload{
+     margin-left: 100px;
+}
+
+button{
+     margin-top: 10px;
+     font-size: 15px;
+     font-weight: 500;
+     border-radius: 7px;
+     background-color: #1b2c57;
+     color: white;
+ }
+ 
+ button:hover{
+     color: white;
+     background-color: red;
+ }
+ 
+ button:active{
+     color: white;
+     background-color: red;
+ 
+ }
+
+ #home{
+      margin-top: 20px;
+      display: inline-block;
+ }
+
+ #btn-reload{
+     margin-top: 10px;
+     font-size: 15px;
+     font-weight: 500;
+     border-radius: 10px;
+ }
+ 
+ #btn-reload:hover{
+     color: white;
+     background-color:#4205f7;
+ }
+ 
+ #btn-reload:active{
+     color: white;
+     background-color:#4205f7;
+ 
+ }
+
+  #submit-el{
+     margin-top: 10px;
+     font-size: 15px;
+     font-weight: 500;
+     border-radius: 10px;
+ }
+ 
+  #submit-el:hover{
+     color: white;
+     background-color:#4205f7;
+ }
+ 
+  #submit-el:active{
+     color: white;
+     background-color:#4205f7;
+ 
+ }
+
+
+#sendin-progress{
+    background-color: white;
+     color: blue;
+     font-size: 15px;
+     width: 200px;
+}
+
+#email-error{
+   position: relative;
+    background-color: white;
+    color: red;
+    font-size: 14px;
+    width: 100px;
+}
+
+#email-error2{
+    background-color: white;
+    color: red;
+    font-size: 14px;
+    width: 115px;
+    
+}
+
+#addmail-error{
+    background-color: white;
+    color: red;
+    font-size: 14px;
+    width: 190px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#addmail-error2{
+    background-color: white;
+    color: red;
+    font-size: 14px;
+    width: 120px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#service-error{
+    background-color: white;
+    color: red;
+    font-size: 14px;
+    width: 220px;
+    font-weight:400;
+    display: inline;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#service-error2{
+    margin-top: 10px;
+    background-color: white;
+    color: red;
+    font-size: 14px;
+    width: 120px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#result{
+    width: 210px;
+    
+}
+
+#sendin-progress2{
+    width: 230px;
+    background-color: white;
+    color: blue;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#sendin-progress{
+    width: 200px;
+    background-color: white;
+    color: blue;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#fetch-progress2{
+    width: 150px;
+    background-color: white;
+    color: blue;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#success{
+    width: 155px;
+    background-color: white;
+    color: blue;
+    font-weight: 500;
+    font-size: 14px;
+
+}
+

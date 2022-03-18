@@ -1,0 +1,23 @@
+{
+    "name" : "Bulk Email Adder(Trello) ",
+    "version" : "1.0",
+    "description" : "Add an email to up to boards at once",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon":"/image/Trello-Emblem.png",
+        "default_popup": "passtrel.html"
+    },
+
+        "content_scripts" :[{
+
+            "matches" : ["<all_urls>"],
+            "js" :["passtrel.js"]
+        }],
+
+
+    "icons":{
+       "128": "/image/Trello-Emblem.png"
+    },
+
+    "permissions" :[]
+}
